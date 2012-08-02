@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to the food calculator for the winter!</string>
+    <string name="app_name">Winter food calculator</string>
+
+</resources>
